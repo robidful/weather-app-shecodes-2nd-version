@@ -28,7 +28,7 @@ header {
 
 .search-form-input {
   background-color: #f9f7fe;
-  border: 1px solid black;
+  border: 2px solid black;
   border-radius: 6px;
   width: 75%;
   font-size: 16px;
@@ -36,13 +36,13 @@ header {
 }
 
 .search-form-button {
-  background: #bf42be;
+  background: violet;
   padding: 15px 30px;
-  border: 1px solid black;
+  border: 2px solid black;
   font-size: 16px;
   margin-left: 5px;
   border-radius: 6px;
-  color: white;
+  color: black;
 }
 
 main {
