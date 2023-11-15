@@ -100,13 +100,13 @@ main {
 .weather-forecast-date {
   text-align: center;
   color: rgba(39, 33, 66, 0.4);
-  font-size: 16px;
+  font-size: 14px;
   line-height: 20px;
   margin-bottom: 10px;
 }
 
 .weather-forecast-icon {
-  font-size: 38px;
+  font-size: 32px;
   text-align: center;
 }
 .weather-forecast-temperatures {
@@ -119,6 +119,7 @@ main {
 
 .weather-forecast-temperature {
   padding: 0 10px;
+  font-size: 14px;
 }
 
 footer {
